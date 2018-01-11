@@ -1,6 +1,6 @@
 FROM tomcat:9
 
-MAINTAINER github.com/apurvajo
+MAINTAINER github.com/ShekharGupta1988
 
 RUN rm -rf /usr/local/tomcat/webapps/ROOT/*
 
